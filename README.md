@@ -13,5 +13,5 @@ Includes useful points to consider anytime you:
 
 
 ## RESOURCES
-![imagee alt](https://github.com/neelo-oss/project-sources/blob/adcf5435d9377447f1c70e5ad7d4741d74578989/cyber-security-resource.pdf)
+![image alt](https://github.com/neelo-oss/project-sources/blob/adcf5435d9377447f1c70e5ad7d4741d74578989/cyber-security-resource.pdf)
 
